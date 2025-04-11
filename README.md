@@ -1,0 +1,2 @@
+# Projekt_kalkulator_MKL05Z4
+Kalkulator obsługujący podstawowe działania matematyczne
